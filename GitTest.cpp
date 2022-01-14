@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "GoodMorning World!\n";
 
-    std::cout << "新規ブランチでこの行を変更\n";
+    std::cout << "コンフリクトのため、リモートで変更\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
